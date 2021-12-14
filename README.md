@@ -22,6 +22,10 @@ For learners to become truly engaged in the overall eLearning process, they have
 - [ ] Find More Information
     
     About India's top-rated Ed-tech company, offering courses in C++, Java, Python and more.
+ 
+ - [ ] Download
+ 
+     Everyone can directly download the app from the website Explore Tech Information
     
 ## Future Plans
 
