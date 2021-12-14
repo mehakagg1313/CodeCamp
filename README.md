@@ -31,10 +31,10 @@ For learners to become truly engaged in the overall eLearning process, they have
 ## Tech Stack
 
 
-- [ ]  HTML
-- [ ]  CSS
-- [ ]  Javascript
-- [ ]  Bootstrap
-- [ ]  NodeJS
-- [ ]  ExpressJs
-- [ ]  MongoDB
+- [ ]  `HTML`
+- [ ]  `CSS`
+- [ ]  `Javascript`
+- [ ]  `Bootstrap`
+- [ ]  `NodeJS`
+- [ ]  `ExpressJs`
+- [ ]  `MongoDB`
