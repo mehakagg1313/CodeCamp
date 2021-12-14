@@ -3,7 +3,7 @@ Provide the  database that supports the career development needs of information 
 
 It includes information from a wide range of industries, providing insights into best practices across the discipline.
 
-Helping Students who come without a broad range of pre-existing knowledge, skills, beliefs, and attitudes, which influence how they attend, interpret and organize in-coming information.
+A platform to connect and support Students who come without a broad range of pre-existing knowledge, skills, beliefs, and attitudes, which influence how they attend, interpret and organize in-coming information.
 
 For learners to become truly engaged in the overall eLearning process, they have to be aware of how the content is going to translate in real world
  Find More Information- India's top-rated Ed-tech company, offering courses in C++, Java, Python and more.
@@ -31,13 +31,10 @@ For learners to become truly engaged in the overall eLearning process, they have
 ## Tech Stack
 
 
-- [ ] Programming Materials
-
-     All the details and Brief information  of free available courses , coding websites and code editor
- 
-     
-- [ ] 
-    
-    This integration syncs pull requests and issue for a particular repository on a notion kanban board
-    
-
+- [ ]  HTML
+- [ ]  CSS
+- [ ]  Javascript
+- [ ]  Bootstrap
+- [ ]  NodeJS
+- [ ]  ExpressJs
+- [ ]  MongoDB
