@@ -1,11 +1,10 @@
 # CodeCamp
-A platform to connect and support Students who come without a broad range of pre-existing knowledge, skills, beliefs, and attitudes, which influence how they attend, interpret and organize in-coming information in IT sector.
 
-Provide the  database that supports the career development needs of information technology (IT) professionals. 
+Provide the  database that supports the career development needs of information technology (IT) professionals.
+
+A platform to connect and support Students who come without a broad range of pre-existing knowledge, skills, beliefs, and attitudes, which influence how they attend, interpret and organize in-coming information in IT sector. 
 
 It includes information from a wide range of industries, providing insights into best practices across the discipline.
-
-
 
 For learners to become truly engaged in the overall eLearning process, they have to be aware of how the content is going to translate in real world
 
