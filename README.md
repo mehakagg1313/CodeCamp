@@ -1,6 +1,6 @@
 # CodeCamp
 
-Provide the  database that supports the career development needs of information technology (IT) professionals.
+A Web Application that provide the database that supports the career development needs of information technology (IT) professionals.
 
 A platform to connect and support Students who come without a broad range of pre-existing knowledge, skills, beliefs, and attitudes, which influence how they attend, interpret and organize in-coming information in IT sector. 
 
@@ -42,6 +42,7 @@ For learners to become truly engaged in the overall eLearning process, they have
 
 ## Contributing
 
+We rely on open-source community for betterment of product and are always open to new contributions, there are plenty of issues to be resolved in our bweb application, 
 Anyone is welcome to [contribute](.github/CONTRIBUTING.md), however, if you decide to get
 involved, please take a moment to review the [guidelines](.github/CONTRIBUTING.md) .
 
