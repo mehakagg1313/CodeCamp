@@ -1,4 +1,4 @@
-#Contrubuting to Codecamp
+## [Contrubuting to Codecamp]
 
 - Using your system's terminal, git clone the repository to one of your local system directories
 - Open the cloned folder with your code editor( for instance, VS code)
