@@ -44,7 +44,7 @@ For learners to become truly engaged in the overall eLearning process, they have
 ## Contributing
 
 Anyone is welcome to [contribute](.github/CONTRIBUTING.md), however, if you decide to get
-involved, please take a moment to review the [guidelines](.github/CONTRIBUTING.md):
+involved, please take a moment to review the [guidelines](.github/CONTRIBUTING.md) .
 
 ## License
 
