@@ -136,6 +136,104 @@ section {
   font-size: 2.5rem;
   display: none;
 }
+/* ---------live class modal---------- */
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0, 0, 0); /* Fallback color */
+  background-color: rgba(0, 0, 0, 0.4); /* Black w/ opacity */
+}
+
+/* Modal Content Box */
+.modal-content {
+  background-color: #dde8ff;
+  margin: 10% auto; /* 15% from the top and centered */
+  padding: 20px;
+  border: 1px solid #888;
+  width: 40em; /* Could be more or less, depending on screen size */
+  height: 23em;
+}
+
+.close {
+  font-size: 1.8em;
+  cursor: pointer;
+}
+
+.modal-text {
+  padding: 30px;
+  font-size: 1.5em;
+  font-weight: 700;
+  color: #012970;
+}
+
+.discord-img {
+  background: url("/img/Let's Study Together.png");
+  background-size: 30vw;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.scheduleBtn {
+  background-color: #033566;
+  color: white;
+  width: 10vw;
+}
+
+.scheduleBtn:hover {
+  color: white;
+  background-color: #0258af;
+}
+
+@media (max-width: 1199px) {
+  .modal-content {
+    margin: 30% auto;
+    width: 55vw;
+    height: 35vw;
+  }
+
+  .scheduleBtn {
+    width: 15vw;
+  }
+}
+
+@media (max-width: 991px) {
+  .modal-content {
+    margin: 25% auto;
+    width: 60vw;
+    height: 50vw;
+  }
+
+  .scheduleBtn {
+    width: 20vw;
+  }
+}
+
+@media (max-width: 575px) {
+  .modal-content {
+    margin: 35% auto;
+    width: 70vw;
+    height: 95vw;
+    font-size: 0.6em;
+  }
+
+  .discord-img {
+    background-size: 50vw;
+  }
+
+  .scheduleBtn {
+    width: 24vw;
+    font-size: 0.8em;
+  }
+}
+
+/* ----------------------------------- */
 
 .home {
   display: -webkit-box;
