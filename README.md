@@ -23,10 +23,14 @@ For learners to become truly engaged in the overall eLearning process, they have
     
     About India's top-rated Ed-tech company, offering courses in C++, Java, Python and more.
  
- - [ ] Download
+- [ ] Download
  
      Everyone can directly download the app from the website Explore Tech Information
-    
+     
+- [ ] Free Live Doubt Session 
+ 
+     Connect with us 
+
 ## Future Plans
 
 - [ ] Add the feature ♥ (Save Useful Links)
