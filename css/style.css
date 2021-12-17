@@ -17,10 +17,10 @@ html {
   font-size: 62.5%;
   overflow-x: hidden;
 }
-
 section {
-  padding: 3rem 9%;
+  padding: 9rem 15rem;
 }
+
 
 .btn {
   display: inline-block;
