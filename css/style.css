@@ -347,7 +347,6 @@ section {
   -ms-grid-columns: (minmax(31rem, 1fr))[auto-fit];
       grid-template-columns: repeat(auto-fit, minmax(31rem, 1fr));
   gap: 1.5rem;
-  padding: 9rem 15rem;
 }
 
 .course-1 .box {
